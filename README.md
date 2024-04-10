@@ -1,4 +1,23 @@
-# projeto-avatar
-Projeto sobre o jogo avatar
-Projeto criado em base das experiências adquirida na semana do zero ao progamador contratado.
-Utilizando HTML,CSS e JS.
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
+- JavaScript
+
+## 💻 Projeto
+
+O projeto avatar é uma landing page que simula um e-commerce do jogo Avatar.
+
+## 🔗 Deploy
+
+Acesse o projeto finalizado no link a seguir !!
+[PROJETO](https://dodosantosbr.github.io/projeto-avatar/)
+
+## :memo: Licença
+
+Esse projeto está sob a licença dos gêmeos DevEmDobro feito na semana do zero ao programador contratado.
+
+---
+
+Feito com ♥ by Douglas Sales :wave:
